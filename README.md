@@ -1,16 +1,16 @@
-# insta_weather
+# InstaWeather  
+A real-time weather application built using Flutter. This app fetches live weather data from an external API and displays it based on the user's current location.  
 
-A new Flutter project.
+## Key Features:  
+- Fetch current weather data using **API integration**.  
+- Real-time location detection for weather updates.  
+- User-friendly and responsive design.  
+- State management using **Cubit**.  
 
-## Getting Started
+## Technologies Used:  
+- **Flutter**: Cross-platform app development.  
+- **API Integration**: Weather API for real-time data.  
+- **Cubit**: For state management.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose:  
+InstaWeather is a learning project to explore API integration, geolocation services, and state management in Flutter.
